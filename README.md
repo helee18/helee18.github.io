@@ -12,3 +12,10 @@ Si buscamos en el navegador `https://helee.18.github.io` tiene que salirnos la p
 Los archivos de post se llaman `2020-02-20-nombre.md`.
 
 Dentro del archivo copiamos la cabecera correspondiente.
+
+La sintaxis para añadir una imagen es:
+```
+![Almeria]({{ site.url }}/images/2020-02-20/grl.jpeg)
+```
+
+Y la imagen ha de estar en la carpeta images.
